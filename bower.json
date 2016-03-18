@@ -3,7 +3,7 @@
   "main": "ajaxfileupload.js",
   "homepage": "https://github.com/Septemberwh/ajaxfileupload",
   "authors": [
-    "wh <312939906@qq.com>"
+    "Septemberwh <312939906@qq.com>"
   ],
   "description": "js uploader",
   "moduleType": [
@@ -11,7 +11,9 @@
   ],
   "keywords": [
     "file",
-    "upload"
+    "upload",
+    "ajax",
+    "ajaxfileupload"
   ],
   "license": "MIT",
   "ignore": [
@@ -22,7 +24,8 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^2.2.2"
+    "jquery": "^2.1.4",
+    "ajaxfileupload": "*"
   },
-  "version":"1.0"
+  "version": "1.1"
 }
