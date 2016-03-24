@@ -5,7 +5,7 @@
   "authors": [
     "Septemberwh <312939906@qq.com>"
   ],
-  "description": "js uploader",
+  "description": "An asynchronous upload plugin for jquery.",
   "moduleType": [
     "globals"
   ],
